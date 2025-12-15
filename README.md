@@ -1,6 +1,6 @@
 # 💫 About Me:
-I am Charlone Agius and I am a Fullstack Software Developer currently working in iGaming and casinos.<br>I can work on the following stacks: <br>
-<ul><li>PHP</li><li>Symfony</li><li>React</li><li>React Native</li><li>NodeJS</li><li>Strapi</li><li>ExpressJS</li><li>AdonisJS</li><li>Javascript</li><li>jQuery</li><li>MySQL</li><li>MSSQL</li><li>PostgreSQL</li></ul>
+I am Charlone Agius and I am a senior Fullstack Software Developer currently working in iGaming and casinos.<br>I can work on the following stacks: <br>
+<ul><li>React</li><li>React Native</li><li>NextJS</li><li>NodeJS</li><li>Strapi</li><li>ExpressJS</li><li>Javascript</li><li>jQuery</li><li>MySQL</li><li>MSSQL</li><li>PostgreSQL</li></ul>
 
 
 ## 🌐 Socials:
